@@ -17,7 +17,7 @@ class PersonE {
     }
 }
 fun main(){
-    val anton = PersonE("Maman", "Ajha")
+    val anton = PersonE("Siti", "Zulaiha")
     anton.cetakInfo()
     println()
     val budi = PersonE("Budi", "Gunawan", 21)
